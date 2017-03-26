@@ -1,4 +1,3 @@
 <?php
-namespace MicroFramework;
 
-require_once("autoloader.php");
+require_once __DIR__ . '/libs/Autoloader.php';
