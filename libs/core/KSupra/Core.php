@@ -1,6 +1,6 @@
 <?php
 
-namespace MicroFramework\KSupra;
+namespace MF\core\KSupra;
 
 //use \KSupra\
 

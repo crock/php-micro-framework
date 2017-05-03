@@ -1,8 +1,8 @@
 <?php
 
-namespace MicroFramework\KSupra;
+namespace MF\core\KSupra;
 
-//use MicroFramework\KSupra\Core as Core;
+//use MF\KSupra\Core as Core;
 require 'Core.php';
 
 

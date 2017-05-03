@@ -1,6 +1,6 @@
 <?php
 
-namespace MicroFramework\KSupra\Shortcuts\Loader;
+namespace MF\KSupra\Shortcuts\Loader;
 
 class Loader {
 

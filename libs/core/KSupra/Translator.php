@@ -1,6 +1,6 @@
 <?php
 
-namespace KSupra\Translator;
+namespace MF\core\KSupra;
 
 trait Translator {
 

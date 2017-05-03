@@ -1,4 +1,5 @@
 <?php
+namespace MF\core;
 
 class DBHelpers {
 
